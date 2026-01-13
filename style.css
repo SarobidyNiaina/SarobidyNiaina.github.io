@@ -12,7 +12,7 @@ body {
 
 /* HERO */
 .hero {
-    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("cool.png") center/cover no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("cool3.png") center/cover no-repeat;
     height: 100vh;
 }
 
